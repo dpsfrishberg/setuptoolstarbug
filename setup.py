@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Setuptools Tar Bug",
+    name="master",
     version="1.0",
     description="Demonstration of a bug with setuptools", 
     author="Daniel Frishberg",
